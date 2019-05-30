@@ -1,0 +1,6 @@
+framework module Pods_uteber_developement {
+  umbrella header "Pods-uteber-developement-umbrella.h"
+
+  export *
+  module * { export * }
+}
